@@ -1,0 +1,7 @@
+python-dotenv
+cohere
+panda
+scikit-learn
+numpy
+altair
+kagglehub
