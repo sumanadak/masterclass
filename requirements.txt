@@ -1,6 +1,6 @@
 python-dotenv
 cohere
-panda
+pandas
 scikit-learn
 numpy
 altair
