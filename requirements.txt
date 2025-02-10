@@ -7,3 +7,4 @@ altair
 kagglehub
 langchain-cohere
 langchain_core
+getpass
